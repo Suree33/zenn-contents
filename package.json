@@ -1,6 +1,10 @@
 {
   "name": "zenn-contents",
-  "module": "index.ts",
+  "scripts": {
+    "preview": "bunx zenn preview",
+    "new:article": "npx zenn new:article",
+    "new:book": "npx zenn new:book"
+  },
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest"

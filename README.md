@@ -5,25 +5,23 @@
 ### 依存関係のインストール
 
 ```bash
-bun install
+pnpm install
 ```
 
 ### ローカルプレビュー
 
 ```bash
-bun preview
+pnpm preview
 ```
 
 ### 記事の作成
 
 ```bash
-bun new:article
+pnpm new:article
 ```
 
 ### 本の作成
 
 ```bash
-bun new:book
+pnpm new:book
 ```
-
-This project was created using `bun init` in bun v1.0.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.

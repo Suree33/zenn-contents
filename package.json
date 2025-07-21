@@ -6,9 +6,6 @@
     "new:book": "bunx zenn new:book"
   },
   "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
   "peerDependencies": {
     "typescript": "^5.0.0"
   },

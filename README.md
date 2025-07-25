@@ -27,3 +27,10 @@ pnpm new:article
 ```bash
 pnpm new:book
 ```
+
+### リント・フォーマット
+
+```bash
+pnpm lint
+pnpm format
+```

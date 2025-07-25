@@ -3,6 +3,9 @@
 globs:
   - "{articles,books}/*.md"
 
+ignores:
+  - ".claude/**/*.md"
+
 config:
   single-title: false
   no-bare-urls: false
